@@ -1,11 +1,12 @@
-remote_theme: pages-themes/architect@v0.2.0
 
-title: "Moja Strona GitHub Pages"
-description: "Opis mojej strony GitHub Pages"
+title: tytul
+description: prosta strona
+
+theme: jekyll-theme-cayman
+
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-remote-theme 
-
+  
 permalink: /:categories/:title/
